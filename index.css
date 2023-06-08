@@ -1,0 +1,58 @@
+
+body
+{
+    background-color: blue;
+}
+*{
+    margin: 10px;
+}
+.header{
+    color: white;
+    background-color: green;
+    height: 112px;
+    width: 1200px;
+    border: 3px solid red;
+    border-style: dashed;
+}
+.header h1{
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+}
+.header h2{
+    color: darkblue;
+    text-align: center;
+    text-transform: capitalize;
+}
+.header h4{
+     color: white;
+     text-align: center;
+     text-transform: capitalize;
+}
+.menu ul{
+    list-style-type: disc;
+}
+.menu ul li{
+    color: aliceblue;
+    border: 1px solid white;
+    background-color: gray;
+    float: left;
+    height: 35px;
+    width: 250px;
+    text-align: center;
+    border-radius: 8px;
+    display: block;
+}
+.a{
+    height: 90px;
+    width: 900px;
+}
+.menu ul li a{
+    background-color: hotpink;
+    width: 250px;
+    height: 35px;
+}
+#v{
+    background-color: darkviolet;
+    font-size: 25px;
+}
